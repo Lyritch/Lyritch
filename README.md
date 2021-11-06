@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Lyritch
+- 👀 I’m interested in web design 
+- 🌱 I’m currently learning javascript and lua
